@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Hi, I'm Ohayoung1!</h1>
-<p align="center">
-  AI & Backend Developer | Passionate about Building Scalable & Intelligent Systems
-</p>
+<div align="center">
+  <img src="https://github.com/Ohayoung1/Ohayoung1/blob/38c0a6047f8b612eefb50cb9c1fa0bc6659c547c/Welcome%20(1).gif" />
+</div>
+
 
 ### 🎓 **Education & Training**
 - **KT AIVLE School 6기 수료** (2024.09~2025.02)  

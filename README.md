@@ -3,14 +3,6 @@
   AI & Backend Developer | Passionate about Building Scalable & Intelligent Systems
 </p>
 
----
-
-### 📫 **Contact & More Info**
-**[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://[yourtstory.com](https://h0icestroy.tistory.com/)) 개발성장과정 블로그** – AI 및 백엔드 기술 & 프로젝트 경험 공유  
-**[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourgithub) 프로젝트 소스 코드** – 개발 활동 및 오픈소스 기여  
-
----
-
 ### 🎓 **Education & Training**
 - **KT AIVLE School 6기 수료** (2024.09~2025.02)  
   - AI & 백엔드 개발 집중 과정 (840시간)  
